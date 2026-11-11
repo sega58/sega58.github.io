@@ -1,4 +1,3 @@
-# sega58.github.io
 <!-- Note :
    - You can modify the font style and form style to suit your website. 
    - Code lines with comments Do not remove this code are required for the form to work properly, make sure that you do not remove these lines of code. 
