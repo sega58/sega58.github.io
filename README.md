@@ -7,16 +7,11 @@
 	<meta name = 'viewport' content = 'width=device-width, initial-scale=1.0'>
 		<META HTTP-EQUIV = 'content-type' CONTENT = 'text/html;charset=SHIFT-JIS'>
 			<form id = 'webform45302000000737063' action = 'https://crm.zoho.jp/crm/WebToLeadForm' name = WebToLeads45302000000737063 method = 'POST' onSubmit = 'javascript:document.charset="UTF-8"; return checkMandatory45302000000737063()' accept-charset = 'UTF-8'>
-				<input type = 'text' style = 'display:none;' name = 'xnQsjsdp' value = '59d6b2a044431d3c8e02c450b9c68b609e531b69b3c380eb3f70d8914c63bcae'>
-				</input>
-				<input type = 'hidden' name = 'zc_gad' id = 'zc_gad' value = ''>
-				</input>
-				<input type = 'text' style = 'display:none;' name = 'xmIwtLD' value = '65f5406a8cf3d4689ee92457d3e9619b26ec6df93891bf64d72a271e9c901aa7649a11fa2f05757f231ca1390cb51025'>
-				</input>
-				<input type = 'text' style = 'display:none;' name = 'actionType' value = 'TGVhZHM='>
-				</input>
-				<input type = 'text' style = 'display:none;' name = 'returnURL' value = 'null'>
-				</input>
+				<input type = 'text' style = 'display:none;' name = 'xnQsjsdp' value = '59d6b2a044431d3c8e02c450b9c68b609e531b69b3c380eb3f70d8914c63bcae'/>
+				<input type = 'hidden' name = 'zc_gad' id = 'zc_gad' value = ''/>
+				<input type = 'text' style = 'display:none;' name = 'xmIwtLD' value = '65f5406a8cf3d4689ee92457d3e9619b26ec6df93891bf64d72a271e9c901aa7649a11fa2f05757f231ca1390cb51025'/>
+				<input type = 'text' style = 'display:none;' name = 'actionType' value = 'TGVhZHM='/>
+				<input type = 'text' style = 'display:none;' name = 'returnURL' value = 'null'/>
 				<!-- Do not remove this code. -->
 				<style>
 					html,body{
@@ -198,8 +193,7 @@
 						</label>
 					</div>
 					<div class = 'zcwf_col_fld'>
-						<input type = 'text' id = 'Company' aria-required = 'true' aria-label = 'Company' name = 'Company' aria-valuemax = '200' maxlength = '200'>
-						</input>
+						<input type = 'text' id = 'Company' aria-required = 'true' aria-label = 'Company' name = 'Company' aria-valuemax = '200' maxlength = '200'/>
 						<div class = 'zcwf_col_help'>
 						</div>
 					</div>
@@ -211,8 +205,7 @@
 						</label>
 					</div>
 					<div class = 'zcwf_col_fld'>
-						<input type = 'text' id = 'Last_Name' aria-required = 'true' aria-label = 'Last Name' name = 'Last Name' aria-valuemax = '80' maxlength = '80'>
-						</input>
+						<input type = 'text' id = 'Last_Name' aria-required = 'true' aria-label = 'Last Name' name = 'Last Name' aria-valuemax = '80' maxlength = '80'/>
 						<div class = 'zcwf_col_help'>
 						</div>
 					</div>
@@ -222,8 +215,7 @@
 						<label for = 'Email'>メール</label>
 					</div>
 					<div class = 'zcwf_col_fld'>
-						<input type = 'text' ftype = 'email' autocomplete = 'false' id = 'Email' aria-required = 'false' aria-label = 'Email' name = 'Email' aria-valuemax = '100' crmlabel = '' maxlength = '100'>
-						</input>
+						<input type = 'text' ftype = 'email' autocomplete = 'false' id = 'Email' aria-required = 'false' aria-label = 'Email' name = 'Email' aria-valuemax = '100' crmlabel = '' maxlength = '100'/>
 						<div class = 'zcwf_col_help'>
 						</div>
 					</div>
@@ -233,8 +225,7 @@
 						<label for = 'Phone'>電話番号</label>
 					</div>
 					<div class = 'zcwf_col_fld'>
-						<input type = 'text' id = 'Phone' aria-required = 'false' aria-label = 'Phone' name = 'Phone' aria-valuemax = '30' maxlength = '30'>
-						</input>
+						<input type = 'text' id = 'Phone' aria-required = 'false' aria-label = 'Phone' name = 'Phone' aria-valuemax = '30' maxlength = '30'/>
 						<div class = 'zcwf_col_help'>
 						</div>
 					</div>
